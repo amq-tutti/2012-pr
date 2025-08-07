@@ -197,8 +197,8 @@
   },
   {
     "id": 29,
-    "anime": "Little Busters! - nan",
-    "name": "OP",
+    "anime": "Little Busters! - OP",
+    "name": "\"Little Busters! ~TV animation ver.~\" by Rita",
     "video": "https://naedist.animemusicquiz.com/7qpvgz.webm",
     "mp3": "https://naedist.animemusicquiz.com/lydnyx.mp3"
   },
@@ -281,7 +281,7 @@
   },
   {
     "id": 41,
-    "anime": "OniAi - OP",
+    "anime": "Onii-chan dakedo Ai sae Areba Kankeinai yo ne! - OP",
     "name": "\"SELF PRODUCER\" by Minori Chihara",
     "video": "https://naedist.animemusicquiz.com/va6570.webm",
     "mp3": "https://naedist.animemusicquiz.com/jhhgqu.mp3"
@@ -351,104 +351,111 @@
   },
   {
     "id": 51,
+    "anime": "Shakugan no Shana III (Final) - ED",
+    "name": "\"u/n\" by Mami Kawada",
+    "video": "https://naedist.animemusicquiz.com/61r7o3.webm",
+    "mp3": "https://naedist.animemusicquiz.com/a5ylux.mp3"
+  },
+  {
+    "id": 52,
     "anime": "Shin Tennis no Ouji-sama - OP",
     "name": "\"Mirai no Bokura e\" by Norimasa Fujisawa",
     "video": "https://naedist.animemusicquiz.com/6a4gvv.webm",
     "mp3": "https://naedist.animemusicquiz.com/kn05wq.mp3"
   },
   {
-    "id": 52,
+    "id": 53,
     "anime": "Shinsekai Yori - ED",
     "name": "\"Wareta Ringo\" by Risa Taneda",
     "video": "https://naedist.animemusicquiz.com/3f41oi.webm",
     "mp3": "https://naedist.animemusicquiz.com/dlqg1y.mp3"
   },
   {
-    "id": 53,
+    "id": 54,
     "anime": "Strike Witches Gekijouban - ED",
     "name": "\"Yakusoku no Sora e ~Watashi no Ita Basho~\" by Yoko Ishida & Dai 501 Tougou Sentou Koukuu-dan with Aya Uchida",
     "video": "https://naedist.animemusicquiz.com/emt5kz.webm",
     "mp3": "https://naedist.animemusicquiz.com/7e2zej.mp3"
   },
   {
-    "id": 54,
+    "id": 55,
     "anime": "Suki tte Ii na yo. - ED",
     "name": "\"slow dance\" by Suneohair",
     "video": "https://naedist.animemusicquiz.com/u80ztl.webm",
     "mp3": "https://naedist.animemusicquiz.com/pdqjrr.mp3"
   },
   {
-    "id": 55,
+    "id": 56,
     "anime": "Symphogear - OP",
     "name": "\"Synchrogazer\" by Nana Mizuki",
     "video": "https://naedist.animemusicquiz.com/3q0aqk.webm",
     "mp3": "https://naedist.animemusicquiz.com/x1w54c.mp3"
   },
   {
-    "id": 56,
+    "id": 57,
     "anime": "Tanked Driland - ED",
     "name": "\"Nagareboshi\" by WhiteFlame feat. 96neko",
     "video": "https://naedist.animemusicquiz.com/oni6sz.webm",
     "mp3": "https://naedist.animemusicquiz.com/m3996c.mp3"
   },
   {
-    "id": 57,
+    "id": 58,
     "anime": "Tantei Opera Milky Holmes Dai 2 Maku - ED",
     "name": "\"Lovely Girls Anthem\" by Natsuko Aso",
     "video": "https://naedist.animemusicquiz.com/tmq9r1.webm",
     "mp3": "https://naedist.animemusicquiz.com/6lx5mu.mp3"
   },
   {
-    "id": 58,
+    "id": 59,
     "anime": "Tasogare Otome × Amnesia - OP",
     "name": "\"CHOIR JAIL\" by Konomi Suzuki",
     "video": "https://naedist.animemusicquiz.com/f0uo2g.webm",
     "mp3": "https://naedist.animemusicquiz.com/cz9lyb.mp3"
   },
   {
-    "id": 59,
+    "id": 60,
     "anime": "The iDOLM@STER Shiny Festa - INS",
     "name": "\"edeN\" by Akiko Hasegawa・Azumi Asakura・Hiromi Hirata・Yumi Hara",
     "video": "https://naedist.animemusicquiz.com/dvjgoz.webm",
     "mp3": "https://naedist.animemusicquiz.com/x5ji73.mp3"
   },
   {
-    "id": 60,
+    "id": 61,
     "anime": "The iDOLM@STER Shiny Festa\t - ED",
     "name": "\"MUSIC♪\" by 765PRO ALLSTARS",
     "video": "https://naedist.animemusicquiz.com/mae15z.webm",
     "mp3": "https://naedist.animemusicquiz.com/u6mdsd.mp3"
   },
   {
-    "id": 61,
+    "id": 62,
     "anime": "To LOVE-Ru Darkness - OP",
     "name": "\"Rakuen PROJECT\" by Ray",
     "video": "https://naedist.animemusicquiz.com/r706tc.webm",
     "mp3": "https://naedist.animemusicquiz.com/jwvtnc.mp3"
   },
   {
-    "id": 62,
+    "id": 63,
     "anime": "Toriko - ED",
     "name": "\"Sabrina\" by Leo Ieiri",
     "video": "https://naedist.animemusicquiz.com/dm1rsl.webm",
     "mp3": "https://naedist.animemusicquiz.com/qmyts4.mp3"
   },
   {
-    "id": 63,
+    "id": 64,
     "anime": "Uchuu Kyoudai - ED",
     "name": "\"Kokuhaku\" by Angela Aki",
     "video": "https://eudist.animemusicquiz.com/tc5wuf.webm",
     "mp3": "https://eudist.animemusicquiz.com/1kdmij.mp3"
   },
   {
-    "id": 64,
-    "anime": "Ano Natsu de Matteru - ED",
+    "id": 65,
+    "anime": "Waiting in the Summer - ED",
     "name": "\"Vidro Moyou\" by Nagi Yanagi",
     "video": "https://naedist.animemusicquiz.com/7jijlh.webm",
     "mp3": "https://naedist.animemusicquiz.com/7nt62s.mp3"
   },
   {
-    "id": 65,
+    "id": 66,
     "anime": "Yu-Gi-Oh! Zexal - OP",
     "name": "\"Wild Child\" by moumoon",
     "video": "https://naedist.animemusicquiz.com/k6lj9l.webm",
